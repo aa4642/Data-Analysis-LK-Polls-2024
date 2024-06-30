@@ -11,7 +11,7 @@ Here I have used pandas library in python to create data frames and analyze the 
 Two approaches are mainly used which are stored in LS_polls.html and LS_polls1.html
 
 **LS_polls.html**
-In this file the complete and vivid report is generated which is vast and thourogh
+In this file the complete and vivid report is generated which is vast and thourogh. The results are also stored in pdf format on LS_polls.pdf
 
 **LS_polls1.html**
-This file consist of a brief report which just contains the key points and this is important for quick lookout og the data patterns.
+This file consist of a brief report which just contains the key points and this is important for quick lookout og the data patterns. The results are also stored in pdf format on LS_polls1.pdf
